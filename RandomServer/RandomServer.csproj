@@ -10,13 +10,9 @@
 
   <ItemGroup>
     <Compile Remove="Data\China\**" />
-    <Compile Remove="Data\Video\**" />
     <Content Remove="Data\China\**" />
-    <Content Remove="Data\Video\**" />
     <EmbeddedResource Remove="Data\China\**" />
-    <EmbeddedResource Remove="Data\Video\**" />
     <None Remove="Data\China\**" />
-    <None Remove="Data\Video\**" />
   </ItemGroup>
 
   <ItemGroup>
