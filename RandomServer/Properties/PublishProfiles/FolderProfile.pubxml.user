@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\13450\Documents\GitHub\RandomServer\RandomServer\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2024-09-06T06:08:16.1642488Z;True|2024-09-06T14:02:50.9240426+08:00;True|2024-09-06T13:51:11.4547865+08:00;True|2024-09-06T13:45:26.9708898+08:00;True|2024-09-06T13:21:28.6200130+08:00;True|2024-09-06T13:06:37.2570238+08:00;True|2024-09-06T12:19:46.2580220+08:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

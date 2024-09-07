@@ -16,11 +16,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Remove="Random\Txt\Idioms - 复制.txt" />
-    <None Remove="Random\Txt\中国机构梳理--陈志羽.xlsx" />
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
     <PackageReference Include="System.Drawing.Common" Version="8.0.8" />
   </ItemGroup>

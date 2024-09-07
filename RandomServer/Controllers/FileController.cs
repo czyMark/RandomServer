@@ -60,7 +60,7 @@ namespace WebApplication4.Controllers
         public IActionResult Video()
         {
             //读取流
-            string file = "\\Data\\Video\\" + ToolCore.GetSimpNum(1, 26) + ".mp4";
+            string file = "\\Data\\Video\\" + ToolCore.GetSimpNum(1, 10) + ".mp4";
             string localpath = GlobalContext.HostingEnvironment.ContentRootPath + file;
 
             byte[] bytes;
@@ -101,7 +101,7 @@ namespace WebApplication4.Controllers
         public IActionResult VideoRoad()
         {
             //读取流
-            string file = "\\Data\\Video\\Road\\" + ToolCore.GetSimpNum(1, 67) + ".mp4";
+            string file = "\\Data\\Video\\Road\\" + ToolCore.GetSimpNum(1, 10) + ".mp4";
             string localpath = GlobalContext.HostingEnvironment.ContentRootPath + file;
 
             byte[] bytes;
