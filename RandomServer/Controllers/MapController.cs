@@ -2,7 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 using System;
 using System.IO.Pipelines;
 
-namespace WebApplication4.Controllers
+namespace RandomServer.Controllers
 {
     /// <summary>
     /// µØÍ¼Êý¾Ý

@@ -1,6 +1,6 @@
 ﻿using System.Text.RegularExpressions;
 
-namespace WebApplication4.Random
+namespace RandomServer.Random
 {
     public static class ToolFun
     {

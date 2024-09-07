@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
 using System;
-using WebApplication4.Random;
+using RandomServer.Random;
 
-namespace WebApplication4.Controllers
+namespace RandomServer.Controllers
 {
     /// <summary>
     /// 通用数据

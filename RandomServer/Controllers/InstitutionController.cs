@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
-using WebApplication4.Random;
+using RandomServer.Random;
 
-namespace WebApplication4.Controllers
+namespace RandomServer.Controllers
 {
     /// <summary>
     /// »ú¹¹

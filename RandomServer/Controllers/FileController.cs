@@ -1,9 +1,9 @@
 using Microsoft.AspNetCore.Hosting.Server;
 using Microsoft.AspNetCore.Mvc;
-using WebApplication4.Helper;
-using WebApplication4.Random;
+using RandomServer.Helper;
+using RandomServer.Random;
 
-namespace WebApplication4.Controllers
+namespace RandomServer.Controllers
 {
     /// <summary>
     /// 文件数据

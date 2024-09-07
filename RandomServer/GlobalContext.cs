@@ -1,4 +1,4 @@
-﻿namespace WebApplication4
+﻿namespace RandomServer
 {
     public  class GlobalContext
     {

@@ -7,8 +7,8 @@ using Swashbuckle.AspNetCore.SwaggerGen;
 using Swashbuckle.AspNetCore.SwaggerUI;
 using System;
 using System.Reflection;
-using WebApplication4;
-using WebApplication4.Extentions.Swagger;
+using RandomServer;
+using RandomServer.Extentions.Swagger;
 
 var builder = WebApplication.CreateBuilder(args);
 

@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-namespace WebApplication4.Extentions.Swagger
+namespace RandomServer.Extentions.Swagger
 {
     public class SwaggerDocTag : IDocumentFilter
     {

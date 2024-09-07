@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text.RegularExpressions;
 
-namespace WebApplication4
+namespace RandomServer
 {
     public static class ToolCore
     {

@@ -3,7 +3,7 @@ using System.IO;
 using System.Drawing;
 using System.Drawing.Imaging;
 
-namespace WebApplication4.Helper
+namespace RandomServer.Helper
 {
     public class CaptchaHelper
     {
