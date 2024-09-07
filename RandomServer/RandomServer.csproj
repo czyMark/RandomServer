@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <InvariantGlobalization>true</InvariantGlobalization>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Data\China\**" />
+    <Content Remove="Data\China\**" />
+    <EmbeddedResource Remove="Data\China\**" />
+    <None Remove="Data\China\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Random\Txt\Idioms - 复制.txt" />
+    <None Remove="Random\Txt\中国机构梳理--陈志羽.xlsx" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+    <PackageReference Include="System.Drawing.Common" Version="8.0.8" />
+  </ItemGroup>
+
+</Project>
